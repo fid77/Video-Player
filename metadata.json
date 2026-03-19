@@ -1,0 +1,5 @@
+{
+  "name": "Custom Video Player",
+  "description": "A feature-rich custom video player with play/pause, progress bar, volume, fullscreen, and subtitle support.",
+  "requestFramePermissions": []
+}
